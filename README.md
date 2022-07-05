@@ -1,5 +1,4 @@
 # Dynamic-blog-website
-# Blog website with nodeJS
 
 ## Preview 
 
